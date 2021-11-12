@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.exe
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.deps.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\ref\SRPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\bin\Debug\net5.0\SRPViolationApp.pdb
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\ref\SRPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.pdb
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPViolationApp\obj\Debug\net5.0\SRPViolationApp.genruntimeconfig.cache

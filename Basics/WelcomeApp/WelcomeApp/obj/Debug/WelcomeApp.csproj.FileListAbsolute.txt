@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.exe
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.pdb
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.exe
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.pdb

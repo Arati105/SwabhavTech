@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.exe
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.deps.json
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.dll
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\ref\StudentProfessorDesignData.dll
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\bin\Debug\net5.0\StudentProfessorDesignData.pdb
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.dll
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\ref\StudentProfessorDesignData.dll
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.pdb
+E:\SwabhavTech\C#\DataStructure\StudentProfessorDesignData\StudentProfessorDesignData\obj\Debug\net5.0\StudentProfessorDesignData.genruntimeconfig.cache

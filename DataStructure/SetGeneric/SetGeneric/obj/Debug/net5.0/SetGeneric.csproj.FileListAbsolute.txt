@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.exe
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.deps.json
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.dll
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\ref\SetGeneric.dll
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\bin\Debug\net5.0\SetGeneric.pdb
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.dll
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\ref\SetGeneric.dll
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.pdb
+E:\SwabhavTech\C#\DataStructure\SetGeneric\SetGeneric\obj\Debug\net5.0\SetGeneric.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\bin\Debug\FunctionArrayApp.exe.config
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\bin\Debug\FunctionArrayApp.exe
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\bin\Debug\FunctionArrayApp.pdb
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\obj\Debug\FunctionArrayApp.csproj.AssemblyReference.cache
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\obj\Debug\FunctionArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\obj\Debug\FunctionArrayApp.exe
+C:\Users\Swapnil Jadhav\source\repos\FunctionArrayApp\FunctionArrayApp\obj\Debug\FunctionArrayApp.pdb

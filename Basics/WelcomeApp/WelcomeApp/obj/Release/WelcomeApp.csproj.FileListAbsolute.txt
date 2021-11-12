@@ -1,0 +1,4 @@
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\bin\Release\WelcomeApp.exe
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\bin\Release\WelcomeApp.pdb
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\obj\Release\WelcomeApp.exe
+E:\SwabhavTech\C#\Basics\WelcomeApp\WelcomeApp\obj\Release\WelcomeApp.pdb

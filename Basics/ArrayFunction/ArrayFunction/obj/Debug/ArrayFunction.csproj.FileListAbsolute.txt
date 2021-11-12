@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\bin\Debug\ArrayFunction.exe
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\bin\Debug\ArrayFunction.pdb
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\obj\Debug\ArrayFunction.exe
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\obj\Debug\ArrayFunction.pdb
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\obj\Debug\ArrayFunction.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\ArrayFunction\ArrayFunction\obj\Debug\ArrayFunction.csproj.CoreCompileInputs.cache

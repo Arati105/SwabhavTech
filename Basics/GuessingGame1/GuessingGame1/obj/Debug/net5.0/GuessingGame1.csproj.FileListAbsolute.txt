@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.AssemblyInfo.cs
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.exe
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.deps.json
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.runtimeconfig.json
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.runtimeconfig.dev.json
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.dll
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\ref\GuessingGame1.dll
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\bin\Debug\net5.0\GuessingGame1.pdb
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.dll
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\ref\GuessingGame1.dll
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.pdb
+E:\SwabhavTech\C#\Basics\GuessingGame1\GuessingGame1\obj\Debug\net5.0\GuessingGame1.genruntimeconfig.cache

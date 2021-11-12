@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\obj\Debug\FunctionEvenOdd.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\obj\Debug\FunctionEvenOdd.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\bin\Debug\FunctionEvenOdd.exe.config
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\bin\Debug\FunctionEvenOdd.exe
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\bin\Debug\FunctionEvenOdd.pdb
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\obj\Debug\FunctionEvenOdd.exe
+E:\SwabhavTech\C#\Basics\FunctionEvenOdd\FunctionEvenOdd\obj\Debug\FunctionEvenOdd.pdb

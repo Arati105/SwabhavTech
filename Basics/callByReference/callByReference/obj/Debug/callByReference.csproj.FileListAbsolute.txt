@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\bin\Debug\callByReference.exe.config
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\bin\Debug\callByReference.exe
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\bin\Debug\callByReference.pdb
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\obj\Debug\callByReference.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\obj\Debug\callByReference.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\obj\Debug\callByReference.exe
+E:\SwabhavTech\C#\Basics\callByReference\callByReference\obj\Debug\callByReference.pdb

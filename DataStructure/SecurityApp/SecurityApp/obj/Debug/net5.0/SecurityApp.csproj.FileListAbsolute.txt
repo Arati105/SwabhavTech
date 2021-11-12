@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.exe
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.deps.json
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.dll
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\ref\SecurityApp.dll
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\bin\Debug\net5.0\SecurityApp.pdb
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.dll
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\ref\SecurityApp.dll
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.pdb
+E:\SwabhavTech\C#\DataStructure\SecurityApp\SecurityApp\obj\Debug\net5.0\SecurityApp.genruntimeconfig.cache

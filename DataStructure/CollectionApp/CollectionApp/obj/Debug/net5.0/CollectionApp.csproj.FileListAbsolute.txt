@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.exe
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.deps.json
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.dll
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\ref\CollectionApp.dll
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\bin\Debug\net5.0\CollectionApp.pdb
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.dll
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\ref\CollectionApp.dll
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.pdb
+E:\SwabhavTech\C#\DataStructure\CollectionApp\CollectionApp\obj\Debug\net5.0\CollectionApp.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\Basics\Program1\Program1\bin\Debug\Program1.exe
+E:\SwabhavTech\C#\Basics\Program1\Program1\bin\Debug\Program1.pdb
+E:\SwabhavTech\C#\Basics\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\Basics\Program1\Program1\obj\Debug\Program1.exe
+E:\SwabhavTech\C#\Basics\Program1\Program1\obj\Debug\Program1.pdb

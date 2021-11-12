@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.exe
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.deps.json
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\ref\OCPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\bin\Debug\net5.0\OCPViolationApp.pdb
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\ref\OCPViolationApp.dll
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.pdb
+E:\SwabhavTech\C#\DataStructure\OCPrinciple\OCPViolationApp\obj\Debug\net5.0\OCPViolationApp.genruntimeconfig.cache

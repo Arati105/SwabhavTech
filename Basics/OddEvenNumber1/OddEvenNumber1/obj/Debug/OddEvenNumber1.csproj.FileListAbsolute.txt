@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\bin\Debug\OddEvenNumber1.exe.config
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\bin\Debug\OddEvenNumber1.exe
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\bin\Debug\OddEvenNumber1.pdb
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\obj\Debug\OddEvenNumber1.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\obj\Debug\OddEvenNumber1.exe
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\obj\Debug\OddEvenNumber1.pdb
+E:\SwabhavTech\C#\Basics\OddEvenNumber1\OddEvenNumber1\obj\Debug\OddEvenNumber1.csproj.AssemblyReference.cache

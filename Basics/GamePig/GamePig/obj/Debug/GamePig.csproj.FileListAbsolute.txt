@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\obj\Debug\GamePig.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\obj\Debug\GamePig.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\bin\Debug\GamePig.exe.config
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\bin\Debug\GamePig.exe
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\bin\Debug\GamePig.pdb
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\obj\Debug\GamePig.exe
+E:\SwabhavTech\C#\Basics\GamePig\GamePig\obj\Debug\GamePig.pdb

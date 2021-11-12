@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.exe
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.deps.json
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.runtimeconfig.json
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.runtimeconfig.dev.json
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.dll
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\ref\DotCom.dll
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\bin\Debug\net5.0\DotCom.pdb
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.AssemblyInfo.cs
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.dll
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\ref\DotCom.dll
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.pdb
+E:\SwabhavTech\C#\Basics\DotCom\DotCom\obj\Debug\net5.0\DotCom.genruntimeconfig.cache

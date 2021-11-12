@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\bin\Debug\SimpleDiceGame.exe.config
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\bin\Debug\SimpleDiceGame.exe
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\bin\Debug\SimpleDiceGame.pdb
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\obj\Debug\SimpleDiceGame.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\obj\Debug\SimpleDiceGame.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\obj\Debug\SimpleDiceGame.exe
+E:\SwabhavTech\C#\Basics\SimpleDiceGame\SimpleDiceGame\obj\Debug\SimpleDiceGame.pdb

@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.exe
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.deps.json
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.dll
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\ref\GuitarApp.dll
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\bin\Debug\net5.0\GuitarApp.pdb
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.dll
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\ref\GuitarApp.dll
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.pdb
+E:\SwabhavTech\C#\DataStructure\GuitarApp\GuitarApp\obj\Debug\net5.0\GuitarApp.genruntimeconfig.cache

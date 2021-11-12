@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\bin\Debug\CmdArgsLine.exe
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\bin\Debug\CmdArgsLine.pdb
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\obj\Debug\CmdArgsLine.exe
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\obj\Debug\CmdArgsLine.pdb
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\obj\Debug\CmdArgsLine.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\CmdArgsLine\CmdArgsLine\obj\Debug\CmdArgsLine.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.exe
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.deps.json
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.dll
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\ref\PatternAppStrategy.dll
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\bin\Debug\net5.0\PatternAppStrategy.pdb
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.dll
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\ref\PatternAppStrategy.dll
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.pdb
+E:\SwabhavTech\C#\DataStructure\StrategyPattern\PatternAppStrategy\obj\Debug\net5.0\PatternAppStrategy.genruntimeconfig.cache

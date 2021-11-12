@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.exe
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.deps.json
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.dll
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ref\ShoppingCartConsole.dll
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\bin\Debug\net5.0\ShoppingCartConsole.pdb
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.dll
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ref\ShoppingCartConsole.dll
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.pdb
+E:\SwabhavTech\C#\DataStructure\ShoppingCart\ShoppingCartConsole\obj\Debug\net5.0\ShoppingCartConsole.genruntimeconfig.cache

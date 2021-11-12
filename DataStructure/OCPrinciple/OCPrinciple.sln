@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPViolationApp", "OCPViolationApp\OCPViolationApp.csproj", "{807E0B69-62B0-4059-B569-256FB4E9260B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPSolutionApp", "OCPSolutionApp\OCPSolutionApp.csproj", "{EE6E10EE-9A53-43C0-8BC2-DF2181E27E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807E0B69-62B0-4059-B569-256FB4E9260B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807E0B69-62B0-4059-B569-256FB4E9260B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807E0B69-62B0-4059-B569-256FB4E9260B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807E0B69-62B0-4059-B569-256FB4E9260B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6E10EE-9A53-43C0-8BC2-DF2181E27E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6E10EE-9A53-43C0-8BC2-DF2181E27E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6E10EE-9A53-43C0-8BC2-DF2181E27E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6E10EE-9A53-43C0-8BC2-DF2181E27E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D00E863-4474-41EB-833E-1B96B3AD2767}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.exe
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.deps.json
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.runtimeconfig.json
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.runtimeconfig.dev.json
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.dll
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ref\ArrayDeclaration.dll
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.pdb
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.csproj.AssemblyReference.cache
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.AssemblyInfoInputs.cache
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.AssemblyInfo.cs
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.dll
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ref\ArrayDeclaration.dll
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.pdb
+C:\Users\Swapnil Jadhav\source\repos\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.genruntimeconfig.cache
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.exe
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.deps.json
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.runtimeconfig.json
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.runtimeconfig.dev.json
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.dll
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ref\ArrayDeclaration.dll
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\bin\Debug\net5.0\ArrayDeclaration.pdb
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.AssemblyInfo.cs
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.dll
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ref\ArrayDeclaration.dll
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.pdb
+E:\SwabhavTech\C#\Basics\ArrayDeclaration\ArrayDeclaration\obj\Debug\net5.0\ArrayDeclaration.genruntimeconfig.cache

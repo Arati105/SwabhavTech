@@ -1,0 +1,15 @@
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.exe
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.deps.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\ref\SRPSolutionApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.pdb
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\ref\SRPSolutionApp.dll
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.pdb
+E:\SwabhavTech\C#\DataStructure\SRPSolidSolution\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.genruntimeconfig.cache

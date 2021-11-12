@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.exe
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.deps.json
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.runtimeconfig.json
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.dll
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\ref\GenericDictApp.dll
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\bin\Debug\net5.0\GenericDictApp.pdb
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.dll
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\ref\GenericDictApp.dll
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.pdb
+E:\SwabhavTech\C#\DataStructure\GenericDictApp\GenericDictApp\obj\Debug\net5.0\GenericDictApp.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+E:\SwabhavTech\C#\Basics\DotComApp\DotComApp\obj\Debug\DotComApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\DotComApp\DotComApp\obj\Debug\DotComApp.csproj.CoreCompileInputs.cache

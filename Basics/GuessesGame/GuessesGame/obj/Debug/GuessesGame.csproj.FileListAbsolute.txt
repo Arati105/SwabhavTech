@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\Basics\GuessesGame\GuessesGame\bin\Debug\GuessesGame.exe
+E:\SwabhavTech\C#\Basics\GuessesGame\GuessesGame\bin\Debug\GuessesGame.pdb
+E:\SwabhavTech\C#\Basics\GuessesGame\GuessesGame\obj\Debug\GuessesGame.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\Basics\GuessesGame\GuessesGame\obj\Debug\GuessesGame.exe
+E:\SwabhavTech\C#\Basics\GuessesGame\GuessesGame\obj\Debug\GuessesGame.pdb

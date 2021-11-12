@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+E:\SwabhavTech\C#\Basics\DiceGame\DiceGame\obj\Debug\DiceGame.pdb

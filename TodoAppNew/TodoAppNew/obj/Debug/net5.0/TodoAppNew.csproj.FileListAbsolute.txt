@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.exe
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.deps.json
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.dll
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\ref\TodoAppNew.dll
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\bin\Debug\net5.0\TodoAppNew.pdb
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.dll
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\ref\TodoAppNew.dll
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.pdb
+E:\SwabhavTech\C#\OOP\TodoAppNew\TodoAppNew\obj\Debug\net5.0\TodoAppNew.genruntimeconfig.cache

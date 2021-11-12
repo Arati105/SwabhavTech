@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.exe
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.deps.json
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.dll
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\ref\InterfaceApp.dll
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\bin\Debug\net5.0\InterfaceApp.pdb
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.dll
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\ref\InterfaceApp.dll
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.pdb
+E:\SwabhavTech\C#\OOP\InterfaceApp\InterfaceApp\obj\Debug\net5.0\InterfaceApp.genruntimeconfig.cache

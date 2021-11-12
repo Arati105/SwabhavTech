@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanLib\bin\Debug\HumanLib.dll
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanLib\bin\Debug\HumanLib.pdb
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanLib\obj\Debug\HumanLib.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanLib\obj\Debug\HumanLib.dll
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanLib\obj\Debug\HumanLib.pdb

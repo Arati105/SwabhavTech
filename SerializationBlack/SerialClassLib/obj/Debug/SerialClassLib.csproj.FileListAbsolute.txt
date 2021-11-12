@@ -1,0 +1,4 @@
+E:\SwabhavTech\C#\OOP\SerializationBlack\SerialClassLib\bin\Debug\SerialClassLib.dll
+E:\SwabhavTech\C#\OOP\SerializationBlack\SerialClassLib\bin\Debug\SerialClassLib.pdb
+E:\SwabhavTech\C#\OOP\SerializationBlack\SerialClassLib\obj\Debug\SerialClassLib.dll
+E:\SwabhavTech\C#\OOP\SerializationBlack\SerialClassLib\obj\Debug\SerialClassLib.pdb

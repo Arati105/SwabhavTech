@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.exe
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.deps.json
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ref\ExceptionGenerationApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\net5.0\ExceptionGenerationApp.pdb
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ref\ExceptionGenerationApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.pdb
+E:\SwabhavTech\C#\OOP\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\net5.0\ExceptionGenerationApp.genruntimeconfig.cache

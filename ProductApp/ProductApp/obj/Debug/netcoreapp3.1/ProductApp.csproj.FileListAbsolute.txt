@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.exe
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.deps.json
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.dll
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\bin\Debug\netcoreapp3.1\ProductApp.pdb
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.dll
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.pdb
+E:\SwabhavTech\C#\OOP\ProductApp\ProductApp\obj\Debug\netcoreapp3.1\ProductApp.genruntimeconfig.cache

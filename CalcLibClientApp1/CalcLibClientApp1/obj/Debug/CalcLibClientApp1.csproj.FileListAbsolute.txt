@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\bin\Debug\CalcLibClientApp1.exe
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\bin\Debug\CalcLibClientApp1.pdb
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\bin\Debug\AdvaitCalcLib.dll
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\obj\Debug\CalcLibClientApp1.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\obj\Debug\CalcLibClientApp1.exe
+E:\SwabhavTech\C#\OOP\CalcLibClientApp1\CalcLibClientApp1\obj\Debug\CalcLibClientApp1.pdb

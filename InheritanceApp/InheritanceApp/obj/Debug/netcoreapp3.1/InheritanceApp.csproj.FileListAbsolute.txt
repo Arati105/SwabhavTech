@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.exe
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.deps.json
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.dll
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\bin\Debug\netcoreapp3.1\InheritanceApp.pdb
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.dll
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.pdb
+E:\SwabhavTech\C#\OOP\InheritanceApp\InheritanceApp\obj\Debug\netcoreapp3.1\InheritanceApp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.exe
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.deps.json
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.dll
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\bin\Debug\netcoreapp3.1\AccountPolymorphsmApp.pdb
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.dll
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.pdb
+E:\SwabhavTech\C#\OOP\AccountPolymorphsmApp\AccountPolymorphsmApp\obj\Debug\netcoreapp3.1\AccountPolymorphsmApp.genruntimeconfig.cache

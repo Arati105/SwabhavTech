@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\DeserializationAppSolution\DeserialClassLibrary\bin\Debug\DeserialClassLibrary.dll
+E:\SwabhavTech\C#\OOP\DeserializationAppSolution\DeserialClassLibrary\bin\Debug\DeserialClassLibrary.pdb
+E:\SwabhavTech\C#\OOP\DeserializationAppSolution\DeserialClassLibrary\obj\Debug\DeserialClassLibrary.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\DeserializationAppSolution\DeserialClassLibrary\obj\Debug\DeserialClassLibrary.dll
+E:\SwabhavTech\C#\OOP\DeserializationAppSolution\DeserialClassLibrary\obj\Debug\DeserialClassLibrary.pdb

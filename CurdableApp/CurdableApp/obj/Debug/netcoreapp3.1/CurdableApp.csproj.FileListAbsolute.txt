@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.exe
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.deps.json
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.dll
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\bin\Debug\netcoreapp3.1\CurdableApp.pdb
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.dll
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.pdb
+E:\SwabhavTech\C#\OOP\CurdableApp\CurdableApp\obj\Debug\netcoreapp3.1\CurdableApp.genruntimeconfig.cache

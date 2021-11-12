@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\bin\Debug\StudentEncapsulationApp.exe.config
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\bin\Debug\StudentEncapsulationApp.exe
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\bin\Debug\StudentEncapsulationApp.pdb
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\obj\Debug\StudentEncapsulationApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\obj\Debug\StudentEncapsulationApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\obj\Debug\StudentEncapsulationApp.exe
+E:\SwabhavTech\C#\OOP\StudentEncapsulationApp\StudentEncapsulationApp\obj\Debug\StudentEncapsulationApp.pdb

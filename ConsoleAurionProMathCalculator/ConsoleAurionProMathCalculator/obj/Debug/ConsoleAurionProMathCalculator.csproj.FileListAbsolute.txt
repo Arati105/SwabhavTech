@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\ConsoleAurionProMathCalculator.exe
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\ConsoleAurionProMathCalculator.pdb
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\Models.dll
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\Models.pdb
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.exe
+E:\SwabhavTech\C#\OOP\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.pdb

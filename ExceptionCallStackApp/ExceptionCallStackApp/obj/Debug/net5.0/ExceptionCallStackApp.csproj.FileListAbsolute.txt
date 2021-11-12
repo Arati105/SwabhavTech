@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.exe
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.deps.json
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ref\ExceptionCallStackApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\net5.0\ExceptionCallStackApp.pdb
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ref\ExceptionCallStackApp.dll
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.pdb
+E:\SwabhavTech\C#\OOP\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\net5.0\ExceptionCallStackApp.genruntimeconfig.cache

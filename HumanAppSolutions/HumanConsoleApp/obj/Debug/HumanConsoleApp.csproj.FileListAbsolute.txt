@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\bin\Debug\HumanConsoleApp.exe
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\bin\Debug\HumanConsoleApp.pdb
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\bin\Debug\HumanLib.dll
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\bin\Debug\HumanLib.pdb
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\obj\Debug\HumanConsoleApp.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\obj\Debug\HumanConsoleApp.exe
+E:\SwabhavTech\C#\OOP\HumanAppSolutions\HumanConsoleApp\obj\Debug\HumanConsoleApp.pdb

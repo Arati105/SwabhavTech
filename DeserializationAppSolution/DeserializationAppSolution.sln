@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserialConsoleApp", "DeserialConsoleApp\DeserialConsoleApp.csproj", "{1A1F4B85-2540-4BED-A735-25D8AF478ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserialClassLibrary", "DeserialClassLibrary\DeserialClassLibrary.csproj", "{A2DA839D-23BE-43F0-9954-210F7DA98710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1F4B85-2540-4BED-A735-25D8AF478ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1F4B85-2540-4BED-A735-25D8AF478ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1F4B85-2540-4BED-A735-25D8AF478ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1F4B85-2540-4BED-A735-25D8AF478ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DA839D-23BE-43F0-9954-210F7DA98710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DA839D-23BE-43F0-9954-210F7DA98710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DA839D-23BE-43F0-9954-210F7DA98710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DA839D-23BE-43F0-9954-210F7DA98710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

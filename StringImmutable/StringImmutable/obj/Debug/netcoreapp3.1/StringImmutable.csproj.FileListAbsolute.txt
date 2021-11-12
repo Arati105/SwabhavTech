@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.exe
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.deps.json
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.dll
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\bin\Debug\netcoreapp3.1\StringImmutable.pdb
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.dll
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.pdb
+E:\SwabhavTech\C#\OOP\StringImmutable\StringImmutable\obj\Debug\netcoreapp3.1\StringImmutable.genruntimeconfig.cache

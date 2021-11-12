@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AccountCustomExceptionApp/1.0.0": {
+        "runtime": {
+          "AccountCustomExceptionApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountCustomExceptionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

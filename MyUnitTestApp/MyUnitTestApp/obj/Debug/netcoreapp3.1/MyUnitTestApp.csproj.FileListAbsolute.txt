@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.exe
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.deps.json
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.dll
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\bin\Debug\netcoreapp3.1\MyUnitTestApp.pdb
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.dll
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.pdb
+E:\SwabhavTech\C#\OOP\MyUnitTestApp\MyUnitTestApp\obj\Debug\netcoreapp3.1\MyUnitTestApp.genruntimeconfig.cache

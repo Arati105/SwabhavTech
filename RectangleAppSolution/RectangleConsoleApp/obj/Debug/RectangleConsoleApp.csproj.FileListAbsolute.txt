@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\bin\Debug\RectangleConsoleApp.exe
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\bin\Debug\RectangleConsoleApp.pdb
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\bin\Debug\RectangleLib.dll
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\bin\Debug\RectangleLib.pdb
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\obj\Debug\RectangleConsoleApp.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\obj\Debug\RectangleConsoleApp.exe
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleConsoleApp\obj\Debug\RectangleConsoleApp.pdb

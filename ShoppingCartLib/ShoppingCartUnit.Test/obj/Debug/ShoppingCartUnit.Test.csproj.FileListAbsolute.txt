@@ -1,0 +1,10 @@
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\bin\Debug\ShoppingCartUnit.Test.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\bin\Debug\ShoppingCartUnit.Test.pdb
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\bin\Debug\ShoppingCartLib.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\bin\Debug\ShoppingCartLib.pdb
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\obj\Debug\ShoppingCartUnit.Test.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\obj\Debug\ShoppingCartUnit.Test.pdb
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\obj\Debug\ShoppingCartUnit.Test.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\obj\Debug\ShoppingCartUnit.Test.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartUnit.Test\obj\Debug\ShoppingCartUnit.Test.csproj.CopyComplete

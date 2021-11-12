@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleLib\bin\Debug\RectangleLib.dll
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleLib\bin\Debug\RectangleLib.pdb
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleLib\obj\Debug\RectangleLib.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleLib\obj\Debug\RectangleLib.dll
+E:\SwabhavTech\C#\OOP\RectangleAppSolution\RectangleLib\obj\Debug\RectangleLib.pdb

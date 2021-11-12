@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\bin\Debug\RectangleEncapSolutionApp.exe.config
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\bin\Debug\RectangleEncapSolutionApp.exe
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\bin\Debug\RectangleEncapSolutionApp.pdb
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\obj\Debug\RectangleEncapSolutionApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\obj\Debug\RectangleEncapSolutionApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\obj\Debug\RectangleEncapSolutionApp.exe
+E:\SwabhavTech\C#\OOP\RectangleEncapSolutionApp\RectangleEncapSolutionApp\obj\Debug\RectangleEncapSolutionApp.pdb

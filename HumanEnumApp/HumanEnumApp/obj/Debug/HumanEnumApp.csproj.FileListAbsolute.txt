@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\bin\Debug\HumanEnumApp.exe.config
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\bin\Debug\HumanEnumApp.exe
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\bin\Debug\HumanEnumApp.pdb
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\obj\Debug\HumanEnumApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\obj\Debug\HumanEnumApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\obj\Debug\HumanEnumApp.exe
+E:\SwabhavTech\C#\OOP\HumanEnumApp\HumanEnumApp\obj\Debug\HumanEnumApp.pdb

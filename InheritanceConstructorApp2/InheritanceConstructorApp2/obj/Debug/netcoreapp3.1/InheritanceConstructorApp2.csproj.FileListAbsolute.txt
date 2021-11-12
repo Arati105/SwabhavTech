@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.exe
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.deps.json
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.dll
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\netcoreapp3.1\InheritanceConstructorApp2.pdb
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.dll
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.pdb
+E:\SwabhavTech\C#\OOP\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\netcoreapp3.1\InheritanceConstructorApp2.genruntimeconfig.cache

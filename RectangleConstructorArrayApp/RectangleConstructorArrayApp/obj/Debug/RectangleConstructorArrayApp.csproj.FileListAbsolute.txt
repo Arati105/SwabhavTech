@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\obj\Debug\RectangleConstructorArrayApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\obj\Debug\RectangleConstructorArrayApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\bin\Debug\RectangleConstructorArrayApp.exe.config
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\bin\Debug\RectangleConstructorArrayApp.exe
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\bin\Debug\RectangleConstructorArrayApp.pdb
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\obj\Debug\RectangleConstructorArrayApp.exe
+E:\SwabhavTech\C#\OOP\RectangleConstructorArrayApp\RectangleConstructorArrayApp\obj\Debug\RectangleConstructorArrayApp.pdb

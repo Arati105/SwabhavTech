@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\bin\Debug\SerializationSolutionApp.exe.config
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\bin\Debug\SerializationSolutionApp.exe
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\bin\Debug\SerializationSolutionApp.pdb
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\obj\Debug\SerializationSolutionApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\obj\Debug\SerializationSolutionApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\obj\Debug\SerializationSolutionApp.exe
+E:\SwabhavTech\C#\OOP\SerializationSolutionApp\SerializationSolutionApp\obj\Debug\SerializationSolutionApp.pdb

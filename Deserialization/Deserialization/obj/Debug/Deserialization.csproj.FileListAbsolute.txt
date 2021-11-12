@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\Deserialization\Deserialization\bin\Debug\Deserialization.exe
+E:\SwabhavTech\C#\OOP\Deserialization\Deserialization\bin\Debug\Deserialization.pdb
+E:\SwabhavTech\C#\OOP\Deserialization\Deserialization\obj\Debug\Deserialization.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\Deserialization\Deserialization\obj\Debug\Deserialization.exe
+E:\SwabhavTech\C#\OOP\Deserialization\Deserialization\obj\Debug\Deserialization.pdb

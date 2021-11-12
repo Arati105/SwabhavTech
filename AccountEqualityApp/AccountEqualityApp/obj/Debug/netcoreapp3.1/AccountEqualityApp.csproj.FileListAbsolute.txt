@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.exe
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.deps.json
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.dll
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\bin\Debug\netcoreapp3.1\AccountEqualityApp.pdb
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.dll
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.pdb
+E:\SwabhavTech\C#\OOP\AccountEqualityApp\AccountEqualityApp\obj\Debug\netcoreapp3.1\AccountEqualityApp.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\BasicMathUnitTest\BasicMathUnitTest\obj\Debug\net5.0\BasicMathUnitTest.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\BasicMathUnitTest\BasicMathUnitTest\obj\Debug\net5.0\BasicMathUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\BasicMathUnitTest\BasicMathUnitTest\obj\Debug\net5.0\BasicMathUnitTest.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\BasicMathUnitTest\BasicMathUnitTest\obj\Debug\net5.0\BasicMathUnitTest.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\BasicMathUnitTest\BasicMathUnitTest\obj\Debug\net5.0\BasicMathUnitTest.csproj.CoreCompileInputs.cache

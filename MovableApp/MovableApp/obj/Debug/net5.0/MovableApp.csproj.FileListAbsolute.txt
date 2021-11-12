@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.exe
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.deps.json
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.dll
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\ref\MovableApp.dll
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\bin\Debug\net5.0\MovableApp.pdb
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.dll
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\ref\MovableApp.dll
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.pdb
+E:\SwabhavTech\C#\OOP\MovableApp\MovableApp\obj\Debug\net5.0\MovableApp.genruntimeconfig.cache

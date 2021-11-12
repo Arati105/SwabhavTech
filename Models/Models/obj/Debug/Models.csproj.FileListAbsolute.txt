@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\Models\Models\bin\Debug\Models.dll
+E:\SwabhavTech\C#\OOP\Models\Models\bin\Debug\Models.pdb
+E:\SwabhavTech\C#\OOP\Models\Models\obj\Debug\Models.dll
+E:\SwabhavTech\C#\OOP\Models\Models\obj\Debug\Models.pdb

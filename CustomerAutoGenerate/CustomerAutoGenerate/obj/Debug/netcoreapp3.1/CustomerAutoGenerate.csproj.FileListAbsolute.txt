@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.exe
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.deps.json
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.dll
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\bin\Debug\netcoreapp3.1\CustomerAutoGenerate.pdb
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.dll
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.pdb
+E:\SwabhavTech\C#\OOP\CustomerAutoGenerate\CustomerAutoGenerate\obj\Debug\netcoreapp3.1\CustomerAutoGenerate.genruntimeconfig.cache

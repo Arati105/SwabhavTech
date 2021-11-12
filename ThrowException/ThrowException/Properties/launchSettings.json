@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ThrowException": {
+      "commandName": "Project",
+      "commandLineArgs": "0 0"
+    }
+  }
+}

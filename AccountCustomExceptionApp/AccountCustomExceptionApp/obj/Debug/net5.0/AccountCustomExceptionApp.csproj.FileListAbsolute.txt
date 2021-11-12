@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.exe
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.deps.json
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.dll
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\ref\AccountCustomExceptionApp.dll
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\bin\Debug\net5.0\AccountCustomExceptionApp.pdb
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.dll
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\ref\AccountCustomExceptionApp.dll
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.pdb
+E:\SwabhavTech\C#\OOP\AccountCustomExceptionApp\AccountCustomExceptionApp\obj\Debug\net5.0\AccountCustomExceptionApp.genruntimeconfig.cache

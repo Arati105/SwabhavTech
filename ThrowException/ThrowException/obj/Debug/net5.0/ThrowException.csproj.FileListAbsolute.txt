@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.exe
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.deps.json
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.runtimeconfig.json
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.runtimeconfig.dev.json
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.dll
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ref\ThrowException.dll
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\bin\Debug\net5.0\ThrowException.pdb
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.AssemblyInfo.cs
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.dll
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ref\ThrowException.dll
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.pdb
+E:\SwabhavTech\C#\OOP\ThrowException\ThrowException\obj\Debug\net5.0\ThrowException.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+E:\SwabhavTech\C#\OOP\SerialAndDeserial\SerialAndDeserial\bin\Debug\SerialAndDeserial.exe
+E:\SwabhavTech\C#\OOP\SerialAndDeserial\SerialAndDeserial\bin\Debug\SerialAndDeserial.pdb
+E:\SwabhavTech\C#\OOP\SerialAndDeserial\SerialAndDeserial\obj\Debug\SerialAndDeserial.csprojResolveAssemblyReference.cache
+E:\SwabhavTech\C#\OOP\SerialAndDeserial\SerialAndDeserial\obj\Debug\SerialAndDeserial.exe
+E:\SwabhavTech\C#\OOP\SerialAndDeserial\SerialAndDeserial\obj\Debug\SerialAndDeserial.pdb

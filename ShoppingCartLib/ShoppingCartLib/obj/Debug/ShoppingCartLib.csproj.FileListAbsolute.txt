@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\bin\Debug\ShoppingCartLib.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\bin\Debug\ShoppingCartLib.pdb
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\obj\Debug\ShoppingCartLib.dll
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\obj\Debug\ShoppingCartLib.pdb
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\obj\Debug\ShoppingCartLib.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\ShoppingCartLib\ShoppingCartLib\obj\Debug\ShoppingCartLib.csproj.CoreCompileInputs.cache
